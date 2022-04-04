@@ -1,0 +1,75 @@
+body {
+    background-color: #faf8f5 !important;
+    font-family: Ubuntu;
+   
+}
+h4 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    
+    box-shadow: 0px 1.5px 10px 0 rgba(1, 0, 42, 0.05);
+    text-align: center;
+    font-size: 25px;
+}
+span {
+    color: #5fb84b;
+}
+.height10 {
+    height: 40px;
+}
+.resistors {
+    width: 1100px;
+    text-align: center;
+}
+
+#str, #str2 {
+    font-size: 35px;
+    height: 60px;
+    border: #5fb84b solid 5px;
+    box-shadow: 0px 1.5px 10px 0 rgba(62, 59, 228, 0.05);
+    display: none;
+    text-align: center;
+}
+.inpposl, .inppar {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 330px;
+    height: 50px;
+    padding: 0;
+    text-align: center;
+    border-radius: 5px;
+}
+.selposl, .selpar {
+    height: 50px;
+    width: 65px;
+    border-radius: 10px;
+}
+.result {
+    
+    box-shadow: 0px 1.5px 10px 0 rgba(1, 0, 42, 0.05);
+}
+
+#addresistor, #addresistor2 {
+    margin: 10px;
+}
+#countom, #countom2 {
+    margin: 10px;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+.cardpar, .cardposl {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    border-radius: 0.35rem;
+}
